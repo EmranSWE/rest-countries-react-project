@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.country{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+ 
+}
