@@ -1,37 +1,84 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Title: Rest Countries with React
+Rest Countries with reactjs is a primary reactjs projects.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Demo
+Rest Countries With React
+[Live Demo](https://rest-all-countries-with-reactjs.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technology Stack
+* HTML5
+* CSS3
+* JavaScript
+* React
 
-### `npm run build`
+## Feature of Rest Countries With React
+What User can Do:
+- User can see all the countries
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Documentation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Documentation](https://github.com/EmranSWE/rest-countries-react-project/blob/main/README.md)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
+- Desktop / Laptop
+![App Screenshot](https://i.ibb.co/mvcJjSB/Screenshot33.png)
 
-### `npm run eject`
+## Installation
+- First, Download Or Clone the repository
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+  npm install projects
+  cd projects
+  npm run start
+```
+
+## Support
+
+For support, email me mdemran.swe@gmail.com or visite my  [Website](https://emran-portfolio.web.app/)
+
+
+## Feedback
+
+If you have any feedback, please reach out me to
+mdemran.swe@gmail.com
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emran-portfolio.web.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emran2k18/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EmranSwe)
+
+
+## Contributing
+
+Contributions are always welcome!
+For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+See `contributing.md` for ways to get started follow me on github.
+
+Please adhere to this project's `code of conduct`.
+## Acknowledgements
+
+I would like to express my special thanks of gratitude to blog writter and stack overflow contributor for their able guidance in completing my project.
+- API: `https://restcountries.com/v3.1/all`
+
+## Authors
+
+- [@Emran](https://github.com/EmranSWE)
+
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) This project is licensed under the MIT License - see the `LICENSE.md `file for details
+
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
